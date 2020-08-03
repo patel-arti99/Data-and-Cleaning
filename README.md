@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Week-4-Assignment
-Repository for week 4 of Getting and Cleaning Data Coursera course Assingment.
+Repository for week 4 of Getting and Cleaning Data Coursera course Assignment.
 
 # Assignment Instructions
 First, download and unzip the data file into your R working directory.
