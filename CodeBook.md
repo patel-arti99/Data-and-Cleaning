@@ -38,3 +38,6 @@ Six Activity Groups were Tested
 - Sitting
 - Standing
 - Laying
+
+# Data Analysis
+Only the mean and Standard Deviations measurements were extracted and compiled to form one coherent data file.
